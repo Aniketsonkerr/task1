@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/product-catalog/static/css/main.2e499e34.css",
+    "main.js": "/product-catalog/static/js/main.b293cb85.js",
+    "static/media/eco-factory.png": "/product-catalog/static/media/eco-factory.4ea3f9709cef62ffbcfc.png",
+    "static/media/factory.png": "/product-catalog/static/media/factory.4506f4465e5817dd8cf7.png",
+    "index.html": "/product-catalog/index.html",
+    "main.2e499e34.css.map": "/product-catalog/static/css/main.2e499e34.css.map",
+    "main.b293cb85.js.map": "/product-catalog/static/js/main.b293cb85.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e499e34.css",
+    "static/js/main.b293cb85.js"
+  ]
+}
